@@ -21,11 +21,11 @@
     "morgan": "^1.10.0",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
-    "handlebars": "^4.5.0"
+    "handlebars": "^4.7.7"
   },
   "devDependencies": {
     "dotenv": "^9.0.2",
-    "handlebars": "^4.5.0",
+    "handlebars": "^4.7.7",
     "npm-check-updates": "^11.5.12"
   }
 }
